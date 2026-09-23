@@ -11,3 +11,8 @@ name = "Huy"
 
 let age: TAge = undefined;
 age = 25;
+
+const printName = (myName: string | null) => {
+    myName?.toUpperCase();//  Chuyển thường thành in hoa
+    console.log(`Tên là ${myName}`);
+}
