@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function saidHi(name) {
     console.log("Said Hi", name);
 }
@@ -8,4 +10,3 @@ function sum(a, b) {
 }
 const mySum = sum(5, 7);
 console.log(mySum);
-export {};

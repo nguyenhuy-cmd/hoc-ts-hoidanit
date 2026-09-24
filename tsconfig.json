@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "es6",// Để hỗ trọ tốt cho phía browser (trình duyệt web)
+    "module": "commonjs",// Để hỗ trọ tốt cho phía browser (trình duyệt web)
     "rootDir": "src",
     "outDir": "dist",
     "strict": true,

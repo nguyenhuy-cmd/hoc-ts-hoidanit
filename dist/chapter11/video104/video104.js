@@ -1,4 +1,5 @@
-export {};
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /*
 1. Tiêu chí: Cách khai báo
 - type (Type Alias): type User = { name: string; age: number }

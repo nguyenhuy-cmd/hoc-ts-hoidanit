@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let userName = "Huy";
 userName = 123;
 const hoidanit = {
@@ -6,4 +8,3 @@ const hoidanit = {
     address: "Việt Nam",
     language: "Tiếng việt"
 };
-export {};

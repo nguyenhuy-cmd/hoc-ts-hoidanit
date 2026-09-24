@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const person = {
     name: "Huy",
     age: 25,
@@ -11,4 +13,3 @@ const student = {
     name: "Huy",
     age: 23
 };
-export {};

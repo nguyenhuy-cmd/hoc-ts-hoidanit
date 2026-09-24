@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Kiểu dữ liệu any và unknown
 // any nghĩa là bỏ qua phần check type
 let name = "Huy";
@@ -10,4 +12,3 @@ let khongbiet = "Huy";
 if (typeof (khongbiet) === "string") {
     khongbiet.toUpperCase();
 }
-export {};
