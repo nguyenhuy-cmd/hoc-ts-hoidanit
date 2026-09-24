@@ -40,4 +40,3 @@ class catCon extends Cat{
 const myCat3 = new catCon("mèo con", 2);
 myCat3.makeSound();
 
-// 1. Đâu là cha đâu là con: 
